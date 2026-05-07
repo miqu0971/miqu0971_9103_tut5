@@ -1,4 +1,3 @@
-# miqu0971_9103_tut5
 # Part 1：Imaging Technique Inspiration
 
 ##  Thousand Histories
